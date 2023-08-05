@@ -19,19 +19,22 @@
               <b>동주</b>
               <br/>
             <a href="https://github.com/eunbeann">
-              <img style="height: 150px;" src="" width="200">
+              <img style="height: 150px;" src="https://upload3.inven.co.kr/upload/2022/02/22/bbs/i013933971517.gif" width="200">
             </a>
         </td>
         <td style="min-width: 150px; height: 150px" background-color="white">
               <b>비니</b>
               <br/>
             <a href="https://github.com/hae2ni">
-              <img style="height: 150px;" src="" height='150' width="200">
+              <img style="height: 150px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY7Uy7zbT3arfCsAGsEvDhhLcf1ckRx2rq6w&usqp=CAU" height='150' width="200">
             </a> 
     </tr>
 </table>
 
 ## 학습진척도
+
+
+<div align="center">
 
 | id  | chapter                    | done |
 | --- | -------------------------- | ---- |
@@ -52,3 +55,5 @@
 | 14  | 기타 패턴                  |      |
 
 [노션 링크](https://www.notion.so/eunbeann/54236669932545e88e6766cf9ca90f1c?pvs=4)
+
+</div>
