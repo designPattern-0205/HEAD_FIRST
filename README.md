@@ -55,5 +55,10 @@
 | 14  | 기타 패턴                  |      |
 
 [노션 링크](https://www.notion.so/eunbeann/54236669932545e88e6766cf9ca90f1c?pvs=4)
+<br />
+<br />
 
+<img width="635" alt="Screen Shot 2023-08-07 at 18 31 30" src="https://github.com/designPattern-0205/HEAD_FIRST/assets/65286685/bbbd6194-f856-4401-92d2-bcb01330ebb7">
+<br />
 </div>
+
