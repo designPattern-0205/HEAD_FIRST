@@ -4,7 +4,8 @@ public class PokemonSimulation {
         Pokemon starting = new Squirtle();
         starting.PrintInfo();
         starting.Cry();
-        starting.Scratch();
+//        starting.Scratch();
+
         starting.Tackle();
         starting.feed();
     }
