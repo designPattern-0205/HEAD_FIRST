@@ -1,7 +1,7 @@
 public class PokemonSimulation {
     public static void main(String[] args)
     {
-        Pokemon starting = new Squirtle();
+        Pokemon starting = new Piplup();
         starting.PrintInfo();
         starting.Cry();
 //        starting.Scratch();
