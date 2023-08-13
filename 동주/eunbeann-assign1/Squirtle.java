@@ -3,6 +3,7 @@ public class Squirtle extends Pokemon{ //꼬부기
     {
         this.name = "꼬부기";
         this.level = 1;
+        punchSkills = new NormalPunch();
     }
     public void Cry()
     {

@@ -5,8 +5,8 @@ public class PokemonSimulation {
         starting.PrintInfo();
         starting.Cry();
 //        starting.Scratch();
-
         starting.Tackle();
+        starting.PunchAction();
         starting.feed();
     }
 }

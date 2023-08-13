@@ -4,6 +4,7 @@ public class Chimchar extends Pokemon{ //불꽃숭이
     {
         this.name = "불꽃숭이";
         this.level = 1;
+        punchSkills = new FirePunch();
     }
     @Override
     public void Cry() {

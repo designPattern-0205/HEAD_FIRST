@@ -3,6 +3,7 @@ public class Piplup extends Pokemon{
     {
         this.name = "팽도리";
         this.level = 1;
+        punchSkills = new IcePunch();
     }
     @Override
     public void Cry() {

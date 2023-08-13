@@ -1,5 +1,6 @@
 public abstract class  Pokemon {
 
+    PunchSkills punchSkills;
     public String name;
     public int level;
 
@@ -18,6 +19,10 @@ public abstract class  Pokemon {
     public void Tackle()
     {
         System.out.println("몸통박치기 공격!");
+    }
+
+    public void PunchAction() {
+        punchSkills.punch();
     }
 
     public abstract void Cry();
