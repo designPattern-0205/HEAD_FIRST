@@ -3,6 +3,9 @@ public class Piplup extends Pokemon{
     {
         this.name = "팽도리";
         this.level = 1;
-        crySound = new CryingPiplup();
+    }
+    @Override
+    public void Cry() {
+        System.out.println("펭!펭!!");
     }
 }

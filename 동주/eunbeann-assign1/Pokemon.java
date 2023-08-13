@@ -1,5 +1,4 @@
 public abstract class  Pokemon {
-    CrySound crySound;
 
     public String name;
     public int level;
@@ -21,10 +20,7 @@ public abstract class  Pokemon {
         System.out.println("몸통박치기 공격!");
     }
 
-//    public abstract void Cry();
-    public void playCry() {
-        crySound.cry();
-    }
+    public abstract void Cry();
 
     public void feed()
     {
