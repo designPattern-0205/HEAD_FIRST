@@ -1,6 +1,6 @@
 # 바비 인형 세일러
 
-[노션링크](https://eunbeann.notion.site/Barbie-Strategy-c25bde847e224a38b80bcfe06067817a?pvs=4)
+[노션링크](https://eunbeann.notion.site/Barbie-Strategy-c25bde847e224a38b80bcfe06067817a?pvs=)
 
 - 바비 인형을 만들었는데 더 다양한 버전의 바비가 갖고 싶다!
 
